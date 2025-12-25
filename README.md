@@ -1,3 +1,4 @@
+machine-learning data-science smart-city python tensorflow streamlit big-data air-quality aqi-prediction data-visualization
 Big Data Analytics for Predicting Air Quality in Smart Cities 🏙️🍃
 📌 Project Overview
 As urban populations grow, air pollution has become a critical challenge for Smart Cities. This project leverages Big Data Analytics and Machine Learning to monitor, analyze, and predict air quality levels in real-time. By integrating data from various urban sources, the project provides a predictive dashboard that empowers citizens and city planners to make data-driven health and environmental decisions.
